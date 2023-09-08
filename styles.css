@@ -59,6 +59,7 @@ a{
     flex: auto;
     width: 100%;
     gap: 20px;
+    height: 500px;
 }
 
 .info{
@@ -77,7 +78,7 @@ a{
     flex-wrap: wrap;
     gap: 52px;
     width: 100%;
-    height: auto;
+    height: 500px;
     background-color: #333;
     color: greenyellow;
     padding: 30px;
